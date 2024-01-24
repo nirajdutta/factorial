@@ -1,0 +1,7 @@
+Create a new Java or Kotlin class named FactorialCalculator.
+Write a public static long calculateFactorial(int n) method within the class,
+which takes an integer n as its parameter and returns the factorial of n as a long.
+Implement the method using recursion. You can assume that n will always be a non-negative integer.
+Ensure that your program handles the base case where n is 0, and in that case, return 1 (as 0! is defined as 1).
+Test your program with various values of n to verify its correctness.
+Your code should be well-documented with comments explaining the recursive logic and any important considerations.
